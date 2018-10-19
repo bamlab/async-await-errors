@@ -6,6 +6,8 @@
   "license": "MIT",
   "dependencies": {
     "@sentry/node": "^4.1.1",
+    "bluebird": "^3.5.2",
+    "bluebird-global": "^1.0.1",
     "express": "^4.16.4"
   },
   "devDependencies": {
